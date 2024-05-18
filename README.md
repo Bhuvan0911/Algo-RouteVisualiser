@@ -1,4 +1,4 @@
-**Algorithm Visualiser**
+**Algo-Route Visualiser**
 ======================
 
 A web-based application that showcases a variety of pathfinding algorithms and maze generation techniques.
@@ -40,4 +40,4 @@ We hope you enjoy exploring this interactive visualisation tool!
 
 Contributions are welcome! If you'd like to contribute to this project, please fork this repository and submit a pull request with your changes.
 If you have any questions or suggestions, please feel free to contact the project owner:
-- [Utkarsh Singh](mailto:hauntedutkarsh@gmail.com)
+- [Bhuvan Vinayak](mailto:bhuvansrivastava007@gmail.com)
